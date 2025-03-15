@@ -8,8 +8,12 @@ export default function FloatingNavbar() {
       link: "/",
     },
     {
-      name: "Login",
-      link: "/login",
+      name: "About us",
+      link: "/about",
+    },
+    {
+      name: "Contact us",
+      link: "/contact",
     },
     {
       name: "Signup",
